@@ -16,6 +16,23 @@ header {
   color: var(--white);
   padding: 10px 0;
   text-align: center;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+}
+
+.swagger-link {
+  color: var(--white);
+  text-decoration: none;
+  background-color: #007bff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
+
+.swagger-link:hover {
+  background-color: #0056b3;
 }
 
 .container {
@@ -60,10 +77,15 @@ td {
   cursor: pointer;
   border: none;
   color: var(--white);
+  border-radius: 5px;
 }
 
 .edit-btn {
   background-color: #007bff;
+}
+
+.edit-btn:hover{
+    background-color: #0056b3;
 }
 
 .save-btn {
