@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lucas\\Desktop\\pascho\\Meu\\RandomUserGeneratorPaschoalotto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10D1D4A0-C891-48A7-B055-FE6E03907F40}|RandomUserGeneratorPaschoalotto.csproj|c:\\users\\lucas\\desktop\\pascho\\meu\\randomusergeneratorpaschoalotto\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D1D4A0-C891-48A7-B055-FE6E03907F40}|RandomUserGeneratorPaschoalotto.csproj|solutionrelative:controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D1D4A0-C891-48A7-B055-FE6E03907F40}|RandomUserGeneratorPaschoalotto.csproj|c:\\users\\lucas\\desktop\\pascho\\meu\\randomusergeneratorpaschoalotto\\application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D1D4A0-C891-48A7-B055-FE6E03907F40}|RandomUserGeneratorPaschoalotto.csproj|solutionrelative:application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D1D4A0-C891-48A7-B055-FE6E03907F40}|RandomUserGeneratorPaschoalotto.csproj|c:\\users\\lucas\\desktop\\pascho\\meu\\randomusergeneratorpaschoalotto\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D1D4A0-C891-48A7-B055-FE6E03907F40}|RandomUserGeneratorPaschoalotto.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D1D4A0-C891-48A7-B055-FE6E03907F40}|RandomUserGeneratorPaschoalotto.csproj|c:\\users\\lucas\\desktop\\pascho\\meu\\randomusergeneratorpaschoalotto\\domain\\entities\\registered.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D1D4A0-C891-48A7-B055-FE6E03907F40}|RandomUserGeneratorPaschoalotto.csproj|solutionrelative:domain\\entities\\registered.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D1D4A0-C891-48A7-B055-FE6E03907F40}|RandomUserGeneratorPaschoalotto.csproj|c:\\users\\lucas\\desktop\\pascho\\meu\\randomusergeneratorpaschoalotto\\domain\\entities\\picture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D1D4A0-C891-48A7-B055-FE6E03907F40}|RandomUserGeneratorPaschoalotto.csproj|solutionrelative:domain\\entities\\picture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D1D4A0-C891-48A7-B055-FE6E03907F40}|RandomUserGeneratorPaschoalotto.csproj|c:\\users\\lucas\\desktop\\pascho\\meu\\randomusergeneratorpaschoalotto\\domain\\entities\\id.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D1D4A0-C891-48A7-B055-FE6E03907F40}|RandomUserGeneratorPaschoalotto.csproj|solutionrelative:domain\\entities\\id.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D1D4A0-C891-48A7-B055-FE6E03907F40}|RandomUserGeneratorPaschoalotto.csproj|c:\\users\\lucas\\desktop\\pascho\\meu\\randomusergeneratorpaschoalotto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D1D4A0-C891-48A7-B055-FE6E03907F40}|RandomUserGeneratorPaschoalotto.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D1D4A0-C891-48A7-B055-FE6E03907F40}|RandomUserGeneratorPaschoalotto.csproj|c:\\users\\lucas\\desktop\\pascho\\meu\\randomusergeneratorpaschoalotto\\domain\\entities\\street.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D1D4A0-C891-48A7-B055-FE6E03907F40}|RandomUserGeneratorPaschoalotto.csproj|solutionrelative:domain\\entities\\street.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D1D4A0-C891-48A7-B055-FE6E03907F40}|RandomUserGeneratorPaschoalotto.csproj|c:\\users\\lucas\\desktop\\pascho\\meu\\randomusergeneratorpaschoalotto\\domain\\entities\\dob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D1D4A0-C891-48A7-B055-FE6E03907F40}|RandomUserGeneratorPaschoalotto.csproj|solutionrelative:domain\\entities\\dob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D1D4A0-C891-48A7-B055-FE6E03907F40}|RandomUserGeneratorPaschoalotto.csproj|c:\\users\\lucas\\desktop\\pascho\\meu\\randomusergeneratorpaschoalotto\\domain\\entities\\timezone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D1D4A0-C891-48A7-B055-FE6E03907F40}|RandomUserGeneratorPaschoalotto.csproj|solutionrelative:domain\\entities\\timezone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\pascho\\Meu\\RandomUserGeneratorPaschoalotto\\Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\pascho\\Meu\\RandomUserGeneratorPaschoalotto\\Application\\Services\\UserService.cs",
+              "RelativeToolTip": "Application\\Services\\UserService.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAkwEEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T01:15:10.401Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\pascho\\Meu\\RandomUserGeneratorPaschoalotto\\Controller\\UserController.cs",
+              "RelativeDocumentMoniker": "Controller\\UserController.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\pascho\\Meu\\RandomUserGeneratorPaschoalotto\\Controller\\UserController.cs",
+              "RelativeToolTip": "Controller\\UserController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAWwDEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T01:22:14.859Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Picture.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\pascho\\Meu\\RandomUserGeneratorPaschoalotto\\Domain\\Entities\\Picture.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Picture.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\pascho\\Meu\\RandomUserGeneratorPaschoalotto\\Domain\\Entities\\Picture.cs",
+              "RelativeToolTip": "Domain\\Entities\\Picture.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T03:45:52.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\pascho\\Meu\\RandomUserGeneratorPaschoalotto\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\pascho\\Meu\\RandomUserGeneratorPaschoalotto\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAhwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T02:59:24.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Street.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\pascho\\Meu\\RandomUserGeneratorPaschoalotto\\Domain\\Entities\\Street.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Street.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\pascho\\Meu\\RandomUserGeneratorPaschoalotto\\Domain\\Entities\\Street.cs",
+              "RelativeToolTip": "Domain\\Entities\\Street.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T02:49:57.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dob.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\pascho\\Meu\\RandomUserGeneratorPaschoalotto\\Domain\\Entities\\Dob.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Dob.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\pascho\\Meu\\RandomUserGeneratorPaschoalotto\\Domain\\Entities\\Dob.cs",
+              "RelativeToolTip": "Domain\\Entities\\Dob.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T02:49:02.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\pascho\\Meu\\RandomUserGeneratorPaschoalotto\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\pascho\\Meu\\RandomUserGeneratorPaschoalotto\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T02:42:48.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Registered.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\pascho\\Meu\\RandomUserGeneratorPaschoalotto\\Domain\\Entities\\Registered.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Registered.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\pascho\\Meu\\RandomUserGeneratorPaschoalotto\\Domain\\Entities\\Registered.cs",
+              "RelativeToolTip": "Domain\\Entities\\Registered.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T01:51:53.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Timezone.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\pascho\\Meu\\RandomUserGeneratorPaschoalotto\\Domain\\Entities\\Timezone.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Timezone.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\pascho\\Meu\\RandomUserGeneratorPaschoalotto\\Domain\\Entities\\Timezone.cs",
+              "RelativeToolTip": "Domain\\Entities\\Timezone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T01:51:52.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Id.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\pascho\\Meu\\RandomUserGeneratorPaschoalotto\\Domain\\Entities\\Id.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Id.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\pascho\\Meu\\RandomUserGeneratorPaschoalotto\\Domain\\Entities\\Id.cs",
+              "RelativeToolTip": "Domain\\Entities\\Id.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T01:51:50.172Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

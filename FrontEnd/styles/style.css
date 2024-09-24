@@ -1,0 +1,77 @@
+:root {
+  --primary-color: #6401c0;
+  --white: #f4f4f4;
+  --black: #0d0d0d;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: var(--white);
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: var(--primary-color);
+  color: var(--white);
+  padding: 10px 0;
+  text-align: center;
+}
+
+.container {
+  width: 80%;
+  margin: 20px auto;
+  background: var(--white);
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+table,
+th,
+td {
+  border: 1px solid var(--white);
+}
+
+th,
+td {
+  padding: 10px;
+  text-align: left;
+}
+
+th {
+  background-color: var(--primary-color);
+  color: var(--white);
+}
+
+td {
+  background-color: var(--white);
+}
+
+.edit-btn,
+.save-btn {
+  padding: 5px 10px;
+  margin-right: 5px;
+  cursor: pointer;
+  border: none;
+  color: var(--white);
+}
+
+.edit-btn {
+  background-color: #007bff;
+}
+
+.save-btn {
+  background-color: #28a745;
+}
+
+input[type="text"] {
+  width: 100%;
+  padding: 5px;
+  border: 1px solid var(--white);
+}
